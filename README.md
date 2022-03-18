@@ -4,7 +4,7 @@
 
 
 
-<img src="tela login.png" alt="login screen image">
+<img src="tela login.png"  width="250px" alt="login screen image"> 
 
 > Aplicação de login mobile
 
