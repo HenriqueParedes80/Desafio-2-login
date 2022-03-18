@@ -6,7 +6,7 @@
 
 <img src="tela login.png"  width="250px" alt="login screen image"> 
 
-> Aplicação de login mobile
+> Login Screen
 
 ## Download
 
@@ -36,9 +36,8 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 
 
 
-## 🤝 Colaboradores
+## 🤝 Colaborador
 
-Agradecemos às seguintes pessoas que contribuíram para este projeto:
 
 <table>
   <tr>
