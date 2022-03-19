@@ -2,8 +2,7 @@
 
 <!---Esses são exemplos. Veja https://shields.io para outras pessoas ou para personalizar este conjunto de escudos. Você pode querer incluir dependências, status do projeto e informações de licença aqui--->
 
-
-https://user-images.githubusercontent.com/98928525/159102658-71d0a75e-7e59-4d53-83c3-ba31b3d23db6.mp4
+https://user-images.githubusercontent.com/98928525/159104109-5a3e4c77-12aa-4b46-bf37-654eb18a999f.mp4
 
 ## Download
 Computer Version:
