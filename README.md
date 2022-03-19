@@ -3,13 +3,9 @@
 <!---Esses são exemplos. Veja https://shields.io para outras pessoas ou para personalizar este conjunto de escudos. Você pode querer incluir dependências, status do projeto e informações de licença aqui--->
 
 
-
-<img src="tela login.png"  width="250px" alt="login screen image"> 
-
-> Login Screen
+https://user-images.githubusercontent.com/98928525/159102658-71d0a75e-7e59-4d53-83c3-ba31b3d23db6.mp4
 
 ## Download
-
 Computer Version:
 
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/seu-usuario/seu-repositorio/releases)
